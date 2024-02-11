@@ -1,0 +1,9 @@
+li {
+  list-style: none;
+  border-bottom: 1px gray solid;
+  width: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 8px;
+}
